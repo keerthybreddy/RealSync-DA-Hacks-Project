@@ -1,3 +1,3 @@
 # RealSync-DA-Hacks-Project
 Real Sync Project for the DA Hacks Hackathon
-<br> great project
+<br> This concept targeted every human's need to have genuine connections. 
